@@ -1,8 +1,3 @@
-const lightTheme = "/light.css";
-const darkTheme = "/dark.css";
-const sunIcon = "https://u7p4l-in.github.io/simple-calculator/assets/SunIcon.svg";
-const moonIcon = "https://i.postimg.cc/rmz1jq8y/dark-mode.png";
-const themeIcon = document.getElementById("theme-icon");
 const res = document.getElementById("result");
 const toast = document.getElementById("toast");
 
